@@ -1,0 +1,50 @@
+:root {
+  /* color variables */
+  --cq-c-white: #ffffff;
+  --cq-c-white-005: rgba(255, 255, 255, 0.05);
+  --cq-c-grey-lightest: #efefef;
+  --cq-c-grey-medium: #909090;
+  --cq-c-grey-dark: #202020;
+  --cq-c-grey-darkest: #1b1b1b;
+  --cq-c-purple-bright: #a200e5;
+  --cq-c-purple-017: rgba(162, 0, 229, 0.17);
+  --cq-c-turquoise-bright: #00d8d1;
+  --cq-c-accent: var(--cq-c-purple-bright);
+
+  /* layout & sizing variables */
+  --cq-card-dimension-h: 595px;
+  --cq-card-dimension-w: 474px;
+  --cq-default-border-radius: 5px;
+
+  /* interaction variables */
+  --cq-transition-in: all 0.15s ease-in-out;
+  --cq-transition-out: all 0.37s ease-in-out;
+  --cq-transition-btn: all 0.25s ease-in-out;
+
+  --cq-image-loading-bg: linear-gradient(
+    7deg,
+    var(--cq-c-grey-darkest) 7%,
+    var(--cq-c-white-005)
+  );
+}
+
+/* Stops any shenanigans - Normalize */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+/* Typograph - Defaulty */
+body {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

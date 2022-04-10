@@ -1,0 +1,24 @@
+{
+  "name": "thecirqle-vue-assignment-shawn",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 5050"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.1.1",
+    "@fortawesome/free-regular-svg-icons": "^6.1.1",
+    "@fortawesome/free-solid-svg-icons": "^6.1.1",
+    "@fortawesome/vue-fontawesome": "^2.0.6",
+    "gsap": "^3.10.2",
+    "moment": "^2.29.2",
+    "v-img-fallback": "^0.1.5",
+    "vue": "^3.2.31",
+    "vue-agile": "^2.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.1",
+    "vite": "^2.9.1"
+  }
+}

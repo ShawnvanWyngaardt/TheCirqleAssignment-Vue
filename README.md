@@ -1,2 +1,3 @@
-# TheCirqleAssignment
- The FE Assignment from The Cirqle
+# The Cirqle Assignment
+
+The FE Assignment from The Cirqle
