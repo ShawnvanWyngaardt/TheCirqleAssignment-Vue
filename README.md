@@ -26,7 +26,7 @@ I really enjoyed it, all of it. Including the frustrations of getting stuck, to 
 #### In between the week of learning, I applied myself to the familiar tasks and routines I currently get to do in my role at Euromonitor.
 
 - Breaking down the provided designs in preparation for the FE Build - [https://xd.adobe.com/view/14fff304-6515-4b58-832e-97808dafa1fc-41ac/]
-- Building out the proposed solution in HTML and CSS to better undertand any possible limitations - [https://codepen.io/shawn-van-wyngaardt/pen/wvpyqJV]
+- Building out the proposed solution in HTML and CSS to better understand any possible limitations - [https://codepen.io/shawn-van-wyngaardt/pen/wvpyqJV]
 - And yes, lots and lots of learning material - [Udemy with Max and a few devs who teach on Youtube]
 
 There's more I'd like to mention about my approach and things that were mentioned during the initial two interviews, but I'll leave that for when you've reviewed my submission. This assignment should show a great deal about my skills for now.
